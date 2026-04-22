@@ -1,2 +1,3 @@
-console.log(calculateSquare(2));
-console.log(calculateSquare(9));
+function calculateSquareRoot(num) {
+  return Math.sqrt(num);
+}
